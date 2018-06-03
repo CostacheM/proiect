@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1526491997 source:d:\proiecte\project 5 bfs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1526494884 source:c:\users\costa\desktop\folder nou\bfs.c
+	"functii.h"
+
+1526494851 c:\users\costa\desktop\folder nou\functii.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1526494735 source:c:\users\costa\desktop\folder nou\dfs.c
+	"functii.h"
+
+1526494944 source:c:\users\costa\desktop\folder nou\main.c
+	"functii.h"
+
+1528035763 source:c:\users\costa\desktop\proiect\bfs.c
+	"functii.h"
+
+1528034933 c:\users\costa\desktop\proiect\functii.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1528035763 source:c:\users\costa\desktop\proiect\dfs.c
+	"functii.h"
+
+1528035763 source:c:\users\costa\desktop\proiect\main.c
+	"functii.h"
+
